@@ -1,0 +1,11 @@
+## Customize the test machine
+test:
+    override:
+      - nosetests
+machine:
+  timezone:
+    America/Los_Angeles # Set the timezone
+  # Version of ruby to use
+machine:
+    python:
+      version: 3.6.1
