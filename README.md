@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![CircleCI](https://circleci.com/gh/vipings/practice_python.svg?style=shield)](https://circleci.com/gh/vipings/practice_python)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/vipings/practice_python/blob/exercise8/LICENSE)
 
 
 ## Basic Overview
