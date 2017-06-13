@@ -1,7 +1,7 @@
 ## Customize the test machine
 test:
     override:
-      - notests
+      - nosetests
 machine:
   timezone:
     America/Los_Angeles # Set the timezone
