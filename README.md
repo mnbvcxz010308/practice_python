@@ -13,4 +13,4 @@
 This repository contains solutions from practicepython.org. The exercises are done in Jupyter notebook. This is work in progess, I would be adding more examples over time.
 
 <br>
-&nbsp;&nbsp;&
+&nbsp;&nbsp;
